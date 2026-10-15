@@ -174,22 +174,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is [MIT](https://www.google.com/search?q=LICENSE) licensed.
-
-```
-
----
-
-### 3. ORGANIZAÇÃO DO REPOSITÓRIO (SEO e Estrutura)
-
-Para o GitHub entender e ranquear seu projeto, faça as seguintes configurações nas "engrenagens" no canto superior direito da página principal do repositório:
-
-*   **About (Descrição Curta):**
-    `Signal integrity benchmark of ESP8266 SoftwareSerial interfacing with LD2420 mmWave radar across extreme baud rates.`
-*   **Tags/Topics (Essencial para SEO no GitHub):**
-    `esp8266`, `signal-integrity`, `iot-hardware`, `ld2420`, `mmwave-radar`, `softwareserial`, `oscilloscope`, `uart-communication`, `c-plus-plus`.
-*   **Limpeza do Repositório:**
-    Mova todos os arquivos pesados de dados (`.CSV`, `.BMP`) e os manuais PDF (`HLK-LD2420-Product Manual V1.2.pdf`)[cite: 2] para uma pasta chamada `docs` ou `assets`. Deixe na raiz do projeto apenas o `README.md`, o arquivo `LICENSE` e a pasta do código-fonte (`/softwareSerial_diferentesBaud`). Isso deixa a visualização incrivelmente mais limpa para outro desenvolvedor.
-
-Como você avalia essa estrutura para o seu primeiro projeto? Se estiver de acordo, envie o link ou os dados do próximo repositório que vamos lapidar.
-
-```
